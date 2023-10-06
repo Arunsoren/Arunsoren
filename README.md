@@ -7,7 +7,7 @@
 - 😌 portfolio link : https://www.datascienceportfol.io/arunai
 - 😄 Kaggle profile: https://www.kaggle.com/arunkr1
 - 🧐 Tableau Public : https://public.tableau.com/app/profile/arun.kumar3680
-- ⚡ Fun fact: i try to learn something new everyday it maybe a small medium blog or checking some new ml paper(2min paper).
+- ⚡ Fun fact: i try to learn something new everyday it maybe a small medium blog or checking some new ml paper(2min paper) or watch chess,cs, art.
 
 
 
