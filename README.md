@@ -1,7 +1,7 @@
 ### Hello, I am Arun  👋
 
-- 🔭 I’m currently Looking for work in the field in ML/DL.  
-- 🌱 I’m currently learning Data Science & ML/DL.
+- 🔭 I’m just a Curious person loves machine learning. I'm currently Looking for full time role in the field in Machine Learning & Data Science.  
+- 🌱 I’m currently learning about LLM, Time Series data & Tableau. 
 - 🤔 I’m looking for help with job search.
 - 📫 How to reach me:[ https://www.linkedin.com/in/arun-kumar-soren-b304a1189/](https://www.linkedin.com/in/arunkumarsoren/)
 - 😌 portfolio link : https://www.datascienceportfol.io/arunai
