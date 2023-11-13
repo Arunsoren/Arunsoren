@@ -9,7 +9,7 @@
 - 🧐 Tableau Public : https://public.tableau.com/app/profile/arun.kumar3680
 - ⚡ Fun fact: i try to learn something new everyday it maybe a small medium blog or checking some new ml paper(2min paper) or watch chess,cs, art.
 
-- Interesting logoical Fallacy(if u are curious) : https://www.youtube.com/watch?v=wwUe7T2OKQE
+- Interesting logical Fallacy(if u are curious) : https://www.youtube.com/watch?v=wwUe7T2OKQE
 
 
 
